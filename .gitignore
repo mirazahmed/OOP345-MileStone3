@@ -1,0 +1,39 @@
+
+
+# Visual Studio
+*.sdf
+*.sln
+*.user
+*.suo
+*.opensdf
+*.opendb
+*.db
+Debug/
+ipch/
+x64/
+.vs/
+*.filters
+*.user
+*.vcxproj
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+error.txt
+output.txt
+345_ms3_output.txt
+*.docx
+*.zip
+
+
